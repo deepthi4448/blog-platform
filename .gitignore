@@ -1,0 +1,18 @@
+# Ignore dependencies 
+client/node_modules/ 
+server/node_modules/
+
+# Ignore environment files
+.env 
+client/.env 
+server/.env
+
+# Ignore build output
+client/dist/
+server/dist/
+
+# Ignore log files
+*.log
+
+# Ignore vs CODE SETTINGS 
+.vscode/
