@@ -1,16 +1,26 @@
 # Blog Platform (MERN Stack) 
 A full-stack blog platform built with React, Node.js, Express, and MongoDB.
 
-## Features - User Signup - User Login - JWT Authentication - Create Blog Posts - View Posts - Responsive UI
+## Features -
 
-## Tech Stack ### Frontend - React - Vite - CSS
+User Signup - User Login - JWT Authentication - Create Blog Posts - View Posts - Responsive UI
 
-### Backend - Node.js - Express - MongoDB - Mongoose - JWT - bcrypt
+## Tech Stack 
+### Frontend - 
+React - Vite - CSS
 
-## Folder Structure BLOG-PLATFORM/ ├── client/ └── server/
+### Backend - 
+Node.js - Express - MongoDB - Mongoose - JWT - bcrypt
 
-## Run Locally ### Client cd client npm install npm run dev ### Server cd server npm install npm run dev 
+## Folder Structure BLOG-PLATFORM/ 
+├── client/ 
+└── server/
 
-## Environment Variables Create a `server/.env` file: PORT=5000 MONGO_URI=your_mongodb_connection_string JWT_SECRET=your_secret_key
+## Run Locally
+### Client 
+cd client npm install npm run dev ### Server cd server npm install npm run dev 
+
+## Environment Variables 
+Create a `server/.env` file: PORT=5000 MONGO_URI=your_mongodb_connection_string JWT_SECRET=your_secret_key
 
 ## Author Deepthi Dandetikar
